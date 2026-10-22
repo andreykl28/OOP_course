@@ -30,3 +30,4 @@ cmake --build lab1/build
 ```bash
 ctest --test-dir lab1/build --output-on-failure
 ```
+
