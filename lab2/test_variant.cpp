@@ -213,3 +213,4 @@ TEST(PolynomialTest, PrintFormatting) {
     p3.print(ss3);
     EXPECT_EQ(ss3.str(), "0");
 }
+

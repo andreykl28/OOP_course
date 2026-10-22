@@ -276,3 +276,4 @@ bool Polynomial::operator!=(const Polynomial& other) const {
 void swap(Polynomial& a, Polynomial& b) noexcept {
     a.swap(b);
 }
+

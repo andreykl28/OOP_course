@@ -43,3 +43,4 @@ target_link_libraries(test_variant PRIVATE polynomial GTest::gtest_main)
 
 include(GoogleTest)
 gtest_discover_tests(test_variant)
+

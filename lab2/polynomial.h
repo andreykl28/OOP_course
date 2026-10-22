@@ -38,3 +38,4 @@ public:
 };
 
 void swap(Polynomial& a, Polynomial& b) noexcept;
+
